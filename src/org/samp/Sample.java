@@ -3,6 +3,8 @@ package org.samp;
 public class Sample {
 public void employeeId (String name) {
 System.out.println(name);
+System.out.println(name);
+	
 }
 public void employeeId (String address , int pincode ) {
 System.out.println(address);
